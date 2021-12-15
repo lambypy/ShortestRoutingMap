@@ -11,10 +11,16 @@ In introducing the interactivity for the user, pygame was used to create the env
 Here is a short video showing the functionality of the program:
 <video src="https://user-images.githubusercontent.com/59411811/146115886-3415243c-62dc-4981-8eef-f47561b4e314.mov" width="400" height="400">
 
+## Features:
 
+  
+## Challenges:
+
+  
+## Languages and tools used:
 Created with Python & pygame library.
 
 
 ------------------------------------
-#### Date project started: 14th May 2021
-#### Date project finished: 24th May 2021
+<font size="5"> Date project started: 14th May 2021 </font> 
+<font size="5"> Date project finished: 24th May 2021 </font> 
