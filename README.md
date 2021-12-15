@@ -12,8 +12,8 @@ Here is a short video showing the functionality of the program:
 <video src="https://user-images.githubusercontent.com/59411811/146115886-3415243c-62dc-4981-8eef-f47561b4e314.mov" width="400" height="400">
 
 ## Features:
-• Implemented the A* Search Algorithm to find the shortest path while visualising the areas searched and highlighting the path once found.
-• Introduced functionality allowing the user to add walls, remove walls, and choose the starting nodes and end nodes.
+- Implemented the A* Search Algorithm to find the shortest path while visualising the areas searched and highlighting the path once found.
+- Introduced functionality allowing the user to add walls, remove walls, and choose the starting nodes and end nodes.
 
 ## Challenges:
 - Previously, I did not have too much experience using pygame for visualizations. I had used pygame for making short games in the past, but using it to implement the A* search algorithm was a challenge at times.
