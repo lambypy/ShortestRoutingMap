@@ -9,8 +9,7 @@ Many applications have been built like this showing sorting algorithms or pathfi
 In introducing the interactivity for the user, pygame was used to create the environment for the routing map to occur. We can imagine this as a real-world type map where the walls are buildings that block the perfect route from the starting node to the end node. Of course, in real-life there will be weights to the nodes, however this is a good starting point for seeing how the A* Search Algorithm evaluates its route to reach the end node.
 
 Here is a short video showing the functionality of the program:
-https://user-images.githubusercontent.com/59411811/146115886-3415243c-62dc-4981-8eef-f47561b4e314.mov
-
+<video src="https://user-images.githubusercontent.com/59411811/146115886-3415243c-62dc-4981-8eef-f47561b4e314.mov" width="400" height="400">
 
 
 Created with Python & pygame library.
