@@ -15,6 +15,6 @@ Here is a short video showing the functionality of the program:
 Created with Python & pygame library.
 
 
-
-### Date project started: 02/06/21
-### Date project finished: 
+------------------------------------
+#### Date project started: 14th May 2021
+#### Date project finished: 24th May 2021
