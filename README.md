@@ -22,5 +22,5 @@ Created with Python & pygame library.
 
 
 ------------------------------------
-<font size="5"> Date project started: 14th May 2021 </font> 
+<font size="2"> Date project started: 14th May 2021 </font> 
 <font size="5"> Date project finished: 24th May 2021 </font> 
